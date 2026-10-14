@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # StudyAI QA Sample Portfolio
 
 Recruiter-facing sample QA artifacts for StudyAI, an AI study companion described as a React frontend with a Flask backend and AI-assisted summaries, flashcards, quizzes, and progress features.
@@ -40,3 +41,7 @@ For a visible browser, set `HEADLESS=false` in the environment before running. S
 
 ## Suggested recruiter message
 I’ve prepared a compact QA sample portfolio for StudyAI covering functional and negative test design, sample defect-report structure, and a Java/Selenium/TestNG smoke-test starter. The defect examples are clearly marked as unverified test hypotheses, and the test cases are marked Not Run until validated against a specific build. My existing automation framework is also available here: https://github.com/kondapatirahul/enterprise-qa-automation-framework
+=======
+# studyai-application-testing-portfolio
+QA portfolio for StudyAI featuring functional test cases, sample defect reports, and Java Selenium + TestNG automation tests.
+>>>>>>> a690c3b850958e43e56c3ed0606a4509b84a081c
